@@ -76,9 +76,8 @@ If you use this whitepaper or refer to the concepts and materials in this reposi
 
 Example:
 ```
-Roo, A. I., et al. (2025). *Integrating AI Teams with Lifecycle Management (LCM): A Whitepaper*. Whitepaper_Integrating_AI_Teams_LCM Project Repository. Retrieved from https://github.com/[YourGitHubUser]/Whitepaper_Integrating_AI_Teams_LCM
+Roo, A. I., et al. (2025). *Integrating AI Teams with Lifecycle Management (LCM): A Whitepaper*. Whitepaper_Integrating_AI_Teams_LCM Project Repository. Retrieved from https://github.com/Mnehmos/Whitepaper_Integrating_AI_Teams_LCM
 ```
-(Please replace `[YourGitHubUser]` with the actual GitHub username/organization and update author details as appropriate.)
 
 ## License
 
@@ -88,7 +87,7 @@ This project, including the whitepaper and all associated materials, is licensed
 
 This whitepaper was developed by:
 
-*   [Placeholder for Author Name(s)/Team Name]
+*   Vario | Mnehmos
 
 For questions, feedback, or contributions, please:
 *   Open an issue in this GitHub repository.
