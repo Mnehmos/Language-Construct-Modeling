@@ -1,5 +1,5 @@
 ---
-title: "Integrating AI Teams with Lifecycle Management (LCM): A Whitepaper"
+title: "Integrating AI Teams with Language Context Management (LCM): A Whitepaper"
 task_id: "Draft_GitHub_Release_README"
 date: 2025-05-19
 last_updated: 2025-05-19
