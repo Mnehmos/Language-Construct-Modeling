@@ -91,7 +91,7 @@ This whitepaper was developed by:
 
 For questions, feedback, or contributions, please:
 *   Open an issue in this GitHub repository.
-*   Contact: [placeholder@example.com]
+*   Contact: Mnehmos@mnehmosai.com
 
 ---
 
