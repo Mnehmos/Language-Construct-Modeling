@@ -71,12 +71,12 @@ This repository contains the whitepaper and all supplementary materials, organiz
 If you use this whitepaper or refer to the concepts and materials in this repository, please cite it as follows (example format, update with actual details when published):
 
 ```
-[Author Last Name, Author First Initial(s)]. (2025). *Integrating AI Teams with Lifecycle Management (LCM): A Whitepaper*. [Repository Name/Publisher if applicable]. Retrieved from [URL of this GitHub Repository or DOI]
+Vario. (2025). *Integrating AI Teams with Lifecycle Management (LCM): A Whitepaper*. [Repository Name/Publisher if applicable]. Retrieved from [URL of this GitHub Repository or DOI]
 ```
 
 Example:
 ```
-Roo, A. I., et al. (2025). *Integrating AI Teams with Lifecycle Management (LCM): A Whitepaper*. Whitepaper_Integrating_AI_Teams_LCM Project Repository. Retrieved from https://github.com/Mnehmos/Whitepaper_Integrating_AI_Teams_LCM
+Vario, A. I., et al. (2025). *Integrating AI Teams with Lifecycle Management (LCM): A Whitepaper*. Whitepaper_Integrating_AI_Teams_LCM Project Repository. Retrieved from https://github.com/Mnehmos/Whitepaper_Integrating_AI_Teams_LCM
 ```
 
 ## License
