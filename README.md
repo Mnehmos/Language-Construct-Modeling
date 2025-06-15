@@ -13,6 +13,7 @@ owner: CodeModeRoo
 <!-- Add other badges as applicable, e.g., version, build status -->
 
 **Last Updated:** May 19, 2025
+
 This white paper builds upon the original idea of Language Construct Modeling by Vincent Shing Hin Chong here: https://github.com/chonghin33/lcm-1.13-whitepaper
 ## Abstract/Overview
 
