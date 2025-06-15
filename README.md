@@ -13,7 +13,7 @@ owner: CodeModeRoo
 <!-- Add other badges as applicable, e.g., version, build status -->
 
 **Last Updated:** May 19, 2025
-
+This white paper builds upon the original idea of Language Construct Modeling by Vincent Shing Hin Chong here: https://github.com/chonghin33/lcm-1.13-whitepaper
 ## Abstract/Overview
 
 This whitepaper explores the critical integration of Language Construct Modeling (LCM) principles with the operation and development of structured Artificial Intelligence (AI) teams. As AI systems become more complex and collaborative, establishing robust LCM practices is essential for ensuring their reliability, scalability, maintainability, and overall effectiveness. This document provides a conceptual framework, discusses key challenges, and proposes best practices for embedding LCM throughout the lifecycle of AI team-based projects, from initial design and development through deployment, operation, and evolution. We emphasize the importance of semantic precision, structured collaboration, and continuous adaptation in achieving successful AI team integration with LCM.
